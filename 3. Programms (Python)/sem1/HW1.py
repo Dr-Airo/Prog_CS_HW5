@@ -28,12 +28,11 @@
 #else:  print ("Введены некорретные данные")
 
 # №5
-#import math
 
-#Ax = float(input('Введите координату точки А по оси Х: '))
-#Ay = float(input('Введите координату точки А по оси Y: '))
-#Bx = float(input('Введите координату точки B по оси Х: '))
-#By = float(input('Введите координату точки B по оси Y: '))
+# Ax = float(input('Введите координату точки А по оси Х: '))
+# Ay = float(input('Введите координату точки А по оси Y: '))
+# Bx = float(input('Введите координату точки B по оси Х: '))
+# By = float(input('Введите координату точки B по оси Y: '))
 
-#distance = round(math.sqrt((Bx - Ax)**2 + (By - Ay)**2))
-#print(distance)
+# distance = round(((Bx - Ax)**2 + (By - Ay)**2)**.5)
+# print(distance)
